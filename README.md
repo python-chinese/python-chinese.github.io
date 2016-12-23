@@ -3,13 +3,13 @@
 
 ##媒体
 
-微信公众号：Python中文社区
+微信公众号：[Python中文社区](https://github.com/python-chinese/python-chinese.github.io/blob/master/images/logo2.jpg)
 
-知 乎 专栏：Python中文社区
+知 乎 专栏：[Python中文社区](https://zhuanlan.zhihu.com/zimei)
 
-简          书：Python中文社区
+简          书：[Python中文社区](http://www.jianshu.com/users/b54fa5490d25)
 
-微          博：Python中文社区
+微          博：[Python中文社区](http://weibo.com/xibeifusi)
 
 UC 订阅号：Python中文社区
 
@@ -19,15 +19,15 @@ UC 订阅号：Python中文社区
 
 论坛：www.python-cn.com
 
-Gitter：https://gitter.im/PyCN/PyCN
+Gitter：https://gitter.im/PyCN/PyCN [![Join the chat at https://gitter.im/PyCN/PyCN](https://badges.gitter.im/PyCN/PyCN.svg)](https://gitter.im/PyCN/PyCN)
 
 社区 QQ群：152745094
 
 ##Github组织
 
-PyCN:https://github.com/PyCN
+PyCN:https://github.com/PyCN 
 
-PyCN内部Gitter：https://gitter.im/PyCN
+PyCN内部Gitter：https://gitter.im/PyCN [![Join the chat at https://gitter.im/PyCN](https://badges.gitter.im/PyCN.svg)](https://gitter.im/PyCN)
 
 PyCN QQ群：596796724
 专栏作者
@@ -70,7 +70,7 @@ phdhorse41 (@phdhorse41)  minminzhong (minminzhong)
 
   Github地址: https://github.com/orgs/PyCN/teams/py
 
-  Gitter: https://gitter.im/PyCN/PTR
+  Gitter: https://gitter.im/PyCN/PTR [![Join the chat at https://gitter.im/PyCN/PTR](https://badges.gitter.im/PyCN/PTR.svg)](https://gitter.im/PyCN/PTR?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ##刊物
 
