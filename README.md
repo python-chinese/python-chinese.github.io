@@ -92,4 +92,4 @@ phdhorse41 (@phdhorse41)  minminzhong (minminzhong)
 
 Python中文开发者的精神家园
 ##Logo
-
+![Python中文社区log](https://github.com/python-chinese/python-chinese.github.io/blob/master/images/logo1.png)
