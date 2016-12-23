@@ -30,9 +30,10 @@ PyCN:https://github.com/PyCN
 PyCN内部Gitter：https://gitter.im/PyCN [![Join the chat at https://gitter.im/PyCN](https://badges.gitter.im/PyCN.svg)](https://gitter.im/PyCN)
 
 PyCN QQ群：596796724
-专栏作者
 
-阿橙 (@sinoandywong)    段小草 (@loveQt)
+##专栏作者
+
+阿橙 ([@sinoandywong](https://github.com/sinoandywong))    段小草 (@loveQt)
 
 ZZR (@zzr0427)         小丸子 (@abitch)
 
