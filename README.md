@@ -76,7 +76,7 @@ PyCN QQ群：596796724
 微信：AndyWong188
 ##Slogan
 
-Python中文开发者的精神家园
+Python开发者的精神家园
 ##Logo
 <table style="border:0"><tr>
 <td style="border:0"><img src="images/logo1.png" width=150 height=150 ></td>
