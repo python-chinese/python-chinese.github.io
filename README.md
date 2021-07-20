@@ -25,7 +25,6 @@ PyCN:https://github.com/PyCN
 
 PyCN内部Gitter：https://gitter.im/PyCN [![Join the chat at https://gitter.im/PyCN](https://badges.gitter.im/PyCN.svg)](https://gitter.im/PyCN)
 
-PyCN QQ群：596796724
 
 ##专栏作者
 
