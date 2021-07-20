@@ -17,11 +17,7 @@ UC 订阅号：Python中文社区
 
 ##社群
 
-论坛：www.python-cn.com
-
-Gitter：https://gitter.im/PyCN/PyCN [![Join the chat at https://gitter.im/PyCN/PyCN](https://badges.gitter.im/PyCN/PyCN.svg)](https://gitter.im/PyCN/PyCN)
-
-社区 QQ群：152745094
+Telegram群组：https://t.me/joinchat/RDRY9IakgWRXpWx7
 
 ##Github组织
 
